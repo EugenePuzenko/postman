@@ -1,10 +1,11 @@
 # Registration
-![Снимок экрана (133)](https://user-images.githubusercontent.com/96841712/169717581-0fc6be8d-6c6f-4d70-b465-c3366227b06f.png)
+![Снимок экрана (134)](https://user-images.githubusercontent.com/96841712/169717745-90721f92-2f7e-463b-bc86-91089929d032.png)
+
 
 
 # Authentication
-![Снимок экрана (135)](https://user-images.githubusercontent.com/96841712/169717590-97f74072-4392-4d3c-b992-301631fe57c9.png)
+![Снимок экрана (136)](https://user-images.githubusercontent.com/96841712/169717750-850bfa79-2f89-4df0-818b-20c5e214777d.png)
 
 
 # Get Current User
-![Снимок экрана (134)](https://user-images.githubusercontent.com/96841712/169717593-2a1feeee-345c-44a1-b28d-5408733f853b.png)
+![Снимок экрана (135)](https://user-images.githubusercontent.com/96841712/169717754-e9ff5b8c-4dfe-4787-9146-e64631e2c6c5.png)
